@@ -40,8 +40,11 @@ Yourkut é uma plataforma social onde você pode se conectar com amigos, compart
 1. Acesse a página inicial do Yourkut.
 2. Clique em "Entrar".
 3. Insira seu e-mail e senha.
-4. Clique em "Login".
+4. Clique em "Entrar".
 ![enter image description here](https://media.discordapp.net/attachments/1151154492558020618/1255294172798390352/IMG-20240624-WA0004.jpg?ex=667f3e4d&is=667deccd&hm=a5b471512d406ea2d3329a55b2266491e6a5d2f97709e670c756904e4fb24b9d&=&format=webp&width=879&height=411)
+![enter image description here](https://media.discordapp.net/attachments/1151154492558020618/1255294173053980682/IMG-20240624-WA0000.jpg?ex=667f3e4d&is=667deccd&hm=c4844bbeaebb65040d2e274e6c478344ecd8f538c59e48c5fd3d3b05e675ace9&=&format=webp&width=887&height=411)
+5. Caso não lembre a senha, clique em "Esqueceu a senha?" e redefina sua senha.
+6. Se não tiver uma conta, clique em "Cadastre - se".
 
 ### Cadastro
 
