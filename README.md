@@ -1,4 +1,4 @@
-# Yourkut - Documentação
+# Yourkut - Documentação outra bnranch
 
 Bem-vindo à documentação da Yourkut, a rede social que conecta pessoas ao redor do mundo! Este documento fornecerá todas as informações necessárias para usar a plataforma de maneira eficiente.
 
